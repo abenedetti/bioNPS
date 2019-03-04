@@ -1,6 +1,6 @@
 *Biodiversity in National Parks* is an app that let you visualize [Kaggle's biodiversity dataset](https://www.kaggle.com/nationalparkservice/park-biodiversity). By using the National Park Service  database of animal and plant species identified in individual national parks, the application offers a graphical representation of the data with maps and charts.
 
-![bioNPS|690x369](upload://yiPdibpzeLXIztnEbZV0RmZQjSq.jpeg) 
+![bioNPS|690x369](code/uGeoTagger_bckgd.jpg) 
 
 **Links**
 
