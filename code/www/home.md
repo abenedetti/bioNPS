@@ -4,7 +4,7 @@
 
 From the left navigation panel you'll be able to access the maps, data and charts concerning the US National Parks and their resident species.
 
-It has been made with [shiny](https://shiny.rstudio.com/) and you may find the code on github and rcloud. 
+It has been made with [shiny](https://shiny.rstudio.com/) and you may find the code on [github](https://github.com/abenedetti/bioNPS/) and [rcloud](https://rstudio.cloud/project/246130). 
 
 For a quick walkthrough have a look a the video below.
 <br><br><br>
