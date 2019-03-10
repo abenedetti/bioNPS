@@ -19,3 +19,5 @@
 * A web scraping component runs in the backend, and retrieves parks pictures by using the [**rvest**](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/) package
 
 * Integrated with the [google analytics.js library](https://shiny.rstudio.com/articles/google-analytics.html), to measure how users interact with the app
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
