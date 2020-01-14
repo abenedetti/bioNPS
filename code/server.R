@@ -16,7 +16,9 @@ library(rvest)
 # function to retrieve a park image from the park wiki page
 park_image <- function (park_Name){
   
-  park_WikiUrl <- paste0("https://en.wikipedia.org/wiki/",park_Name)
+  #bug1_fix#
+  park_WikiUrl <- gsub(" ","_",paste0("https://en.wikipedia.org/wiki/",park_Name))
+  #bug1_fix#
   park_Img <- read_html(park_WikiUrl)
   park_Img <- park_Img %>% html_nodes("img")
   
